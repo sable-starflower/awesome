@@ -295,7 +295,7 @@ own checklists. Pull from upstream and merge to keep up to date.
 ## Big Data
 
 - [ ] [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
-- [ ] [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [x] [Public Datasets](https://github.com/sable-starflower/awesome-public-datasets#readme)
 - [ ] [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
 - [ ] [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [ ] [Streaming](https://github.com/manuzhang/awesome-streaming#readme)

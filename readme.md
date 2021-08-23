@@ -1,133 +1,13 @@
-<div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<hr>
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
-		</p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
-		</a>
-		<br>
-		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
-		</a>
-		<br>
-		<br>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
-		<br>
-		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
-			</div>
-			<b>Your app, enterprise-ready.</b>
-			<div>
-				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
-				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
-			</div>
-		</a>
-		<br>
-		<a href="https://strapi.io/?ref=sindresorhus">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
-			</div>
-			<b>Strapi is the leading open-source headless CMS.</b>
-			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
-		<a href="https://oss.capital">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
-			</div>
-			<div>
-				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/bitio-logo.svg" width="190" alt="bit.io">
-			</div>
-			<b>Instant, shareable cloud PostgreSQL database</b>
-			<div>
-				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
-			</div>
-			<b>Dev environments built for the cloud</b>
-			<div>
-				<sub>
-				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
-				<br>
-				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
-				<br>
-				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
-				</sub>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://keygen.sh">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
-			</div>
-			<b>A dead-simple software licensing and distribution API built for developers</b>
-		</a>
-	</p>
-	<hr>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+## How to use
 
-<p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
-</p>
+This repo is a checklist indicating which Awesome repos I've copied into their
+own checklists. Pull from upstream and merge to keep up to date.
 
-<br>
+### Legend
 
-<div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
-</div>
-
-<br>
-
-<p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
-</p>
-<br>
+- [ ] Have not cloned
+- [x] Have cloned
+- ~~Don't care about it~~
 
 ## Contents
 
@@ -161,66 +41,66 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/inputsh/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm#readme)
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
-- [.NET](https://github.com/quozd/awesome-dotnet#readme)
-	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
-- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
-- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-- [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
-- [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [ ] [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+	- [ ] [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- [ ] [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+- [ ] [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [ ] [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+- [ ] [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+- [ ] [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [ ] [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
+- [ ] [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+- [ ] [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [ ] [Linux](https://github.com/inputsh/awesome-linux#readme)
+	- [ ] [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+	- [ ] [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+	- [ ] [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+- [ ] [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
+	- [ ] [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+	- [ ] [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+	- [ ] [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+	- [ ] [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+- [ ] [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+- [ ] [JVM](https://github.com/deephacks/awesome-jvm#readme)
+- [ ] [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
+- [ ] [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
+- [ ] [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+- [ ] [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
+- [ ] [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+- [ ] [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
+- [ ] [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [ ] [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
+- [ ] [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+- [ ] [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
+- [ ] [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
+- [ ] [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
+- [ ] [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+- [ ] [.NET](https://github.com/quozd/awesome-dotnet#readme)
+	- [ ] [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
+	- [ ] [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+- ~~[Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.~~
+- [ ] [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+- [ ] [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+- [ ] [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+- [ ] [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+- [ ] [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+- [ ] [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+- [ ] [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+- [ ] [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+- ~~[Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.~~
+- [ ] [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+- [ ] [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [ ] [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+- [ ] [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 ## Programming Languages
 
-- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-	- [Tips](https://github.com/loverajoel/jstips#readme)
-	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
+- [ ] [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+	- [ ] [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
+	- [ ] [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+	- [ ] [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
+	- [ ] [Tips](https://github.com/loverajoel/jstips#readme)
+	- [ ] [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.

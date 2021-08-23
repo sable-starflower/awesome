@@ -9,36 +9,6 @@ own checklists. Pull from upstream and merge to keep up to date.
 - [x] Have cloned
 - ~~Don't care about it~~
 
-## Contents
-
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Higher Education](#higher-education)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
-
 ## Platforms
 
 - [ ] [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
@@ -101,9 +71,9 @@ own checklists. Pull from upstream and merge to keep up to date.
 	- [ ] [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [ ] [Tips](https://github.com/loverajoel/jstips#readme)
 	- [ ] [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+	- [ ] [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
+	- [ ] [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+	- [ ] [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
 	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
@@ -418,7 +388,7 @@ own checklists. Pull from upstream and merge to keep up to date.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
-- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+- ~~[IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)~~
 
 ## Databases
 
@@ -566,13 +536,13 @@ own checklists. Pull from upstream and merge to keep up to date.
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [ ] [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
 ## Events
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
-- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+- ~~[Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.~~
+- ~~[Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.~~
 
 ## Testing
 
@@ -588,10 +558,10 @@ own checklists. Pull from upstream and merge to keep up to date.
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
-	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
-- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+- [ ] [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
+	- [ ] [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
+	- [ ] [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
+- [ ] [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
@@ -664,7 +634,7 @@ own checklists. Pull from upstream and merge to keep up to date.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
-- [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
+- [ ] [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
 - [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
@@ -676,7 +646,7 @@ own checklists. Pull from upstream and merge to keep up to date.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
-- [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+- [ ] [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
